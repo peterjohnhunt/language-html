@@ -3,7 +3,7 @@ describe 'HTML grammar', ->
 
   beforeEach ->
     waitsForPromise ->
-      atom.packages.activatePackage('language-html')
+      atom.packages.activatePackage('language-html-snippetless')
 
     waitsForPromise ->
       atom.packages.activatePackage('language-coffee-script')
