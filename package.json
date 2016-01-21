@@ -6,14 +6,14 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-html",
+  "homepage": "http://atom.github.io/language-html-snippetless",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-html.git"
+    "url": "https://github.com/peterjohnhunt/language-html-snippetless.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-html/issues"
+    "url": "https://github.com/peterjohnhunt/language-html-snippetless/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
